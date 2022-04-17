@@ -1,0 +1,26 @@
+.profile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.left {
+  height: 100vh;
+  width: 400px;
+  border: 1px solid teal;
+  margin: 10px;
+}
+.middle {
+  height: 100vh;
+  width: 400px;
+  border: 1px solid teal;
+  margin: 10px;
+}
+.right {
+  height: 100vh;
+  width: 400px;
+  border: 1px solid teal;
+  margin: 10px;
+}

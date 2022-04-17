@@ -82,7 +82,7 @@ const Profile = () => {
       if (index === suggestions.length) {
         clearInterval(time);
       }
-    }, 6000);
+    }, 60000);
   }, []);
 
   return (
